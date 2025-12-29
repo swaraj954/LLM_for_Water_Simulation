@@ -11,4 +11,8 @@ Ideas:
 ->Pipe lengths have to be change manually in WNTR if we change the coordinates of nodes,
   if we allow the cord of nodes to be changed via GUI, we have to recompute pipe lengths
 
+->Maybe we can build a replica of the real world pipe network in software and input each parameter.
+  If real life results do not match then something must be wrong and we can take action accordingly
+
+
 
